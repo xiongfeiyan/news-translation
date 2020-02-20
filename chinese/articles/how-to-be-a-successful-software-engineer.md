@@ -13,8 +13,8 @@
 我收到的最好的事业和生活的建议
 简而言之，如下：
 
--   少承诺，多干活Underpromise, overdeliver
--   完美是好的敌人Perfect is the enemy of good
+-   少承诺，多做事
+-   完美是好的敌人
 -   走自己的路Stay on a path
 -   尽早收集反馈信息Collect feedback early
 -   提问之前要先自己寻找Seek before you ask
@@ -40,14 +40,14 @@
 
 后来我的经理找我谈话，提供给我一些建议，改变了我的人生。他说，**平时少许诺，多做事。**
 
-那句话的意思是你应该保守估计，为各种原因导致的错误预估提供足够的缓冲（因为 [任何事情都可能发生错误][1]），这样你就能够提前或在预算之内完工。What that means is that you should be conservative with your estimations, provide sufficient buffer for your estimations for various things to go wrong (because  [anything that can go wrong, will][1]), and aim to deliver your project ahead of time/under the cost.
+那句话的意思是你应该保守估计，为各种原因导致的错误预估提供足够的缓冲（因为 [任何事情都可能发生错误][1]），这样你就能够提前或在预算之内完工。
 
-好处如下：
+这样做的好处是：
 
-1.  Gives you ample time to develop  **_and_**  refactor as needed_._ Feature development is always a good time to go back and fix some of the  [technical debt][2]  you (or the team before you) have accumulated over the years.
-2.  Allows time to figure out the  **best**  design, and not just a working design.
-3.  There are many things that can go wrong during feature development. A co-worker goes on vacation, you get sick, meetings, your kid gets sick, your car gets hit, and the list goes on. It’s important to recognize that things can go awry, and you want to ensure you have a buffer in your schedule.
-4.  Being able to produce high-quality work consistently as a result of #2, and able to deliver on-time every single time as a result of #3, you’re now recognized as  **a high-performer within the company**  who knows what you’re talking about and can be counted on. Win-win!
+1.  给你足够的时间来根据需要进行开发 **_和_** 重构。功能开发是一个很好的时机，去弥补你（或你之前的团队）多年来积累的一些 [技术债务][2]。 Gives you ample time to develop  **_and_**  refactor as needed_._ Feature development is always a good time to go back and fix some of the  [technical debt][2]  you (or the team before you) have accumulated over the years.
+2.  留出足够的时间找出**最好**的设计，而不仅仅只是一个工作设计。Allows time to figure out the  **best**  design, and not just a working design.
+3.  功能开发的过程中很多事情都会出错。比如某个你的合作同事去度假了，或者你或你的家人生病了，或者要参加各种会议，又或者你的车被撞了等等，这些事情都将影响开发的过程。重要的是要认识到事情可能会出错，你要确保你的安排中有一个缓冲区，可以给你足够的时间去解决出现的各种问题。There are many things that can go wrong during feature development. A co-worker goes on vacation, you get sick, meetings, your kid gets sick, your car gets hit, and the list goes on. It’s important to recognize that things can go awry, and you want to ensure you have a buffer in your schedule.
+4.  第2点的结果就是你能够始终如一地完成高质量的工作，第3点的结果是你能够在每个单一节点按时交付工作，现在你被认为是**公司里的一个高绩效者**，你所说的事情能够被信服。这就是双赢的局面！Being able to produce high-quality work consistently as a result of #2, and able to deliver on-time every single time as a result of #3, you’re now recognized as  **a high-performer within the company**  who knows what you’re talking about and can be counted on. Win-win!
 
 你可能会争辩说，少承诺的缺点是，其他人认为你预估10周完成工作是因为你要偷懒，或许整个工程2周就可以完工。You might argue that the downside of under-promising is that others will think you’re being lazy by estimating 10 weeks’ worth of work for something that could be done in 2 weeks.
 
