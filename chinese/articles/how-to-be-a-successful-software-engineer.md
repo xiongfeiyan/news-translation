@@ -4,7 +4,7 @@
 > * 校对者：
 
 
-对于那些年轻的，目光敏锐且刚刚着手从事这个行业的软件工程师来说，这里是我曾经作为一个软件工程师读过以及收到过的比较好的建议。 For the young, bright-eyed software engineers who are starting out in their careers, here are some of the best tips I’ve either read or received as a software engineer.
+对于那些年轻聪明的、从业不久的软件工程师来说，这里有一些比较好的建议，是我作为一个软件工程师曾经读过以及收到过的。 
 
 这里的大多数建议都满足了从事软件工程的人群，但是我相信无论你的职业是什么，它们也都适用于你。
 
@@ -28,21 +28,21 @@
 
 如果你知道超预算和/或延期的项目的数目，你会感到非常惊讶。这是一个非常疯狂的数字，大约是50%。
 
-我们很快就能想到：**有50%的项目不是超过预算就是延期了。**Let’s consider that for a second:  **50% of all projects are either over-budget or delivered late.**
+我们很快就能想到：**有50%的项目不是超过预算就是延期了。**
 
 那意味着每1000个以上的项目，就有500个或者一半的项目是延期或者是超过预算的。这让我很困惑。
 
-我清楚地记得我的第一个技术性项目，那时我负责领导功能开发。这意味着我要写一个技术设计文档，详细说明开发一个完整的功能需要多长时间，需要多少个工程师等等。I recall distinctly during my first tech project that I was given the autonomy to lead the feature development. That meant I was the go-to guy who would write up a technical design doc detailing how much time it would take to develop the entire feature, how many engineers we would need, and so forth.
+我清楚地记得我的第一个技术性项目，那时我负责领导功能开发。这意味着我要写一个技术设计文档，详细说明开发一个完整的功能需要多长时间，需要多少个工程师等等。
 
-而作为一个热切的年轻工程师，我**严重低估了**完成这些工作所需要的时间，最终完工大约用了2-3倍的时间。Being the eager, young engineer that I was, I  **grossly underestimated**  the amount of time needed to get things done. Something to the tune of 2–3x.
+而作为一个热切的年轻工程师，我**严重低估了**完成这些工作所需要的时间，最终完工大约用了2-3倍的时间。
 
-当时我对自己相当失望，而且和同事们的关系也变得有些糟糕。I was quite disappointed with myself at the time, and as a result of that, I had a strained relationship with some of my coworkers, too.
+当时我对自己相当失望，而且和同事们的关系也变得有些糟糕。
 
-然后我的经理让我坐下，给了我一些改变人生的建议。他说，**总是言过其实。**My manager then sat me down and gave me some life-changing advice. He said to me,  **always underpromise and overdeliver.**
+后来我的经理找我谈话，提供给我一些建议，改变了我的人生。他说，**平时少许诺，多做事。**
 
-那句话的意思是你应该保守估计，为各种原因导致的错误预估提供足够的缓冲（因为任何事情都可能发生错误），这样你就能够提前或在预算之内完工。What that means is that you should be conservative with your estimations, provide sufficient buffer for your estimations for various things to go wrong (because  [anything that can go wrong, will][1]), and aim to deliver your project ahead of time/under the cost.
+那句话的意思是你应该保守估计，为各种原因导致的错误预估提供足够的缓冲（因为 [任何事情都可能发生错误][1]），这样你就能够提前或在预算之内完工。What that means is that you should be conservative with your estimations, provide sufficient buffer for your estimations for various things to go wrong (because  [anything that can go wrong, will][1]), and aim to deliver your project ahead of time/under the cost.
 
-优势如下：The benefits:
+好处如下：
 
 1.  Gives you ample time to develop  **_and_**  refactor as needed_._ Feature development is always a good time to go back and fix some of the  [technical debt][2]  you (or the team before you) have accumulated over the years.
 2.  Allows time to figure out the  **best**  design, and not just a working design.
@@ -69,11 +69,11 @@
 
 我们生活在充满约束的世界里，所做出的每个重要决定都需要有一个取舍。We live in a world of constraints, and there’s a trade-off for every important decision that we make.
 
-关键在于认知我们未知的事物。你可能没有意识到这个，但在你做出的大多数决定的背后，都有无数个选择。The **key here is recognizing we don’t know everything**. You might not realize it, but there is a myriad of alternatives behind most decisions you make.
+**关键在于认知我们未知的事物。**你可能没有意识到这个，但在你做出的大多数决定的背后，都有无数个选择。The **key here is recognizing we don’t know everything**. You might not realize it, but there is a myriad of alternatives behind most decisions you make.
 
 例如，作为一个计算机科学专业的学生，毕业后的第一份工作你应该做什么？除了为一家初创公司或大型科技公司工作外，你还可以在海外做自由职业者，开设 Youtube 频道，在 Udemy 上教授计算机科学，开设博客，或创办自己的公司。选择是无限的，而你今天的决定也将基于一些关键标准。For example, as a computer science major, what should you do for a first job out of college? Other than working for a startup or a major tech company, you could also work overseas as a freelancer, start a Youtube channel, teach computer science on Udemy, start a blog, or start your own company. The list of options is limitless, and the decision you make today will be based on several key criteria.
 
-最终你会做出一个**对你最好**的决定，不必非得是客观上的最好，因为每个人都是与众不同的，没有能够适合所有人的决定。You’ll eventually make a decision that is  **best for you**, and not necessarily objectively the best, because everyone is unique and there’s no one-size-fits-all.
+最终你会做出一个**对你最好**的决定，它不必非得是客观上的最好，因为每个人都是与众不同的，没有能够适合所有人的决定。
 
 在这种情况下，我们应该尽自己所能，收集尽可能多的信息，接受我们不知道的那些风险，然后从中做出最好的决定。The best we can do in such a situation is to collect as much information as possible, acknowledge the risks in what we do not know, and make the best decision from there.
 
@@ -83,12 +83,12 @@
 
 我的想法是，我为最坏的情况分配一个概率，并将其用于我的决策过程。这是我从一本叫《Principles by Ray Dalio》的书中学到的，这本书是我极力推荐的一本好书。The way I think about it is I assign a probability for the worst case scenario, and use that for my decision-making process. This is something I learned from a book called  [Principles by Ray Dalio][3], which is a great book that I highly recommend.
 
-如果某件事情发生可怕的错误的概率在统计学上是显著的，我会：If the probability of something going horribly wrong is statistically significant, I either:
+如果某件事情发生可怕的错误的概率在统计学上是显著的，我会：
 
-1.  寻找最好的解决方案或Look for a better solution or
-2.  设法降低风险，以至于它们不再具有统计意义。Find ways to mitigate the risks such that they are no longer statistically significant.
+1.  寻找最好的解决方案或
+2.  设法降低风险，以至于它们不再具有统计意义。
 
-一旦做出了决定，我就会执行它们，并且继续下去。Once a decision is made, I then execute on it and move on.
+一旦做出了决定，我就会执行它们，并且坚持下去。
 
 冲洗，然后重复我遇到的每一个问题。我在解决这些问题上找到了乐趣，在某些方面，生活的乐趣在于解决不同程度和复杂性的问题。Rinse, and repeat for every problem that I encounter. I find joy in solving these problems, and in some ways, life’s joy is in solving problems of varying magnitude and complexity.
 
