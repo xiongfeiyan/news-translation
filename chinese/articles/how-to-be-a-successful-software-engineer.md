@@ -3,94 +3,95 @@
 > * 译者：xiongfeiyan
 > * 校对者：
 
-For the young, bright-eyed software engineers who are starting out in their careers, here are some of the best tips I’ve either read or received as a software engineer.
 
-Most of the advice here caters to the software engineering crowd, but I believe there are many tips that are applicable regardless of your profession.
+对于那些年轻的，目光敏锐且刚刚着手从事这个行业的软件工程师来说，这里是我曾经作为一个软件工程师读过以及收到过的比较好的建议。 For the young, bright-eyed software engineers who are starting out in their careers, here are some of the best tips I’ve either read or received as a software engineer.
+
+这里的大多数建议都满足了从事软件工程的人群，但是我相信无论你的职业是什么，它们也都适用于你。Most of the advice here caters to the software engineering crowd, but I believe there are many tips that are applicable regardless of your profession.
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*czBnulToEp24YNhjnTTrqQ.png)
 
-Best career and life advice I’ve received
+我收到的最好的事业和生活的建议Best career and life advice I’ve received
 
-In short, my best advice is:
+简而言之，最好的建议就是：In short, my best advice is:
 
--   Underpromise, overdeliver
--   Perfect is the enemy of good
--   Stay on a path
--   Collect feedback early
--   Seek before you ask
--   Optimize for simplicity
+-   少承诺，多干活Underpromise, overdeliver
+-   完美是好的敌人Perfect is the enemy of good
+-   走自己的路Stay on a path
+-   尽早收集反馈信息Collect feedback early
+-   提问之前要先自己寻找Seek before you ask
+-   优化是为了简化Optimize for simplicity
 
-If you prefer to watch this in a video format, I’ve made a Youtube video here:
+如果你选择在用影像格式观看，我已经做好了一个 Youtube 视频：If you prefer to watch this in a video format, I’ve made a Youtube video here:
 
-#### Underpromise, Overdeliver
+#### 少承诺，多干活Underpromise, Overdeliver
 
-Underestimating the amount of work needed to accomplish a feature is an  _extremely common mistake_  among new, and even experienced, engineers.
+无论是新手还是有经验的工程师，低估完成一个需求所需要的工作量是一个 _极其普遍的错误_ 。Underestimating the amount of work needed to accomplish a feature is an  _extremely common mistake_  among new, and even experienced, engineers.
 
-If you look at the number of projects that are over-budget and/or delivered late, you’ll be very surprised. It’s a crazy number, something to the tune of 50%.
+如果你知道超预算和/或延期的项目的数目，你会感到非常惊讶。这是一个非常疯狂的数字，大约是50%。If you look at the number of projects that are over-budget and/or delivered late, you’ll be very surprised. It’s a crazy number, something to the tune of 50%.
 
-Let’s consider that for a second:  **50% of all projects are either over-budget or delivered late.**
+我们迅速想一下：**有50%的项目不是超过预算就是延期了。**Let’s consider that for a second:  **50% of all projects are either over-budget or delivered late.**
 
-That means out of every 1000 projects, 500, or half of them, are delivered late or over the estimated budget. It just baffles me.
+那意味着每1000个以上的项目，就有500个或者一半的项目是延期或者是超过预算的。这让我很困惑。That means out of every 1000 projects, 500, or half of them, are delivered late or over the estimated budget. It just baffles me.
 
-I recall distinctly during my first tech project that I was given the autonomy to lead the feature development. That meant I was the go-to guy who would write up a technical design doc detailing how much time it would take to develop the entire feature, how many engineers we would need, and so forth.
+我清楚地记得我的第一个技术性项目，那时我负责领导功能开发。这意味着我要写一个技术设计文档，详细说明开发一个完整的功能需要多长时间，需要多少个工程师等等。I recall distinctly during my first tech project that I was given the autonomy to lead the feature development. That meant I was the go-to guy who would write up a technical design doc detailing how much time it would take to develop the entire feature, how many engineers we would need, and so forth.
 
-Being the eager, young engineer that I was, I  **grossly underestimated**  the amount of time needed to get things done. Something to the tune of 2–3x.
+而作为一个热切的年轻工程师，我**严重低估了**完成这些工作所需要的时间，最终完工大约用了2-3倍的时间。Being the eager, young engineer that I was, I  **grossly underestimated**  the amount of time needed to get things done. Something to the tune of 2–3x.
 
-I was quite disappointed with myself at the time, and as a result of that, I had a strained relationship with some of my coworkers, too.
+当时我对自己相当失望，而且和同事们的关系也变得有些糟糕。I was quite disappointed with myself at the time, and as a result of that, I had a strained relationship with some of my coworkers, too.
 
-My manager then sat me down and gave me some life-changing advice. He said to me,  **always underpromise and overdeliver.**
+然后我的经理让我坐下，给了我一些改变人生的建议。他说，**总是言过其实。**My manager then sat me down and gave me some life-changing advice. He said to me,  **always underpromise and overdeliver.**
 
-What that means is that you should be conservative with your estimations, provide sufficient buffer for your estimations for various things to go wrong (because  [anything that can go wrong, will][1]), and aim to deliver your project ahead of time/under the cost.
+那句话的意思是你应该保守估计，为各种原因导致的错误预估提供足够的缓冲（因为任何事情都可能发生错误），这样你就能够提前或在预算之内完工。What that means is that you should be conservative with your estimations, provide sufficient buffer for your estimations for various things to go wrong (because  [anything that can go wrong, will][1]), and aim to deliver your project ahead of time/under the cost.
 
-The benefits:
+优势如下：The benefits:
 
 1.  Gives you ample time to develop  **_and_**  refactor as needed_._ Feature development is always a good time to go back and fix some of the  [technical debt][2]  you (or the team before you) have accumulated over the years.
 2.  Allows time to figure out the  **best**  design, and not just a working design.
 3.  There are many things that can go wrong during feature development. A co-worker goes on vacation, you get sick, meetings, your kid gets sick, your car gets hit, and the list goes on. It’s important to recognize that things can go awry, and you want to ensure you have a buffer in your schedule.
 4.  Being able to produce high-quality work consistently as a result of #2, and able to deliver on-time every single time as a result of #3, you’re now recognized as  **a high-performer within the company**  who knows what you’re talking about and can be counted on. Win-win!
 
-You might argue that the downside of under-promising is that others will think you’re being lazy by estimating 10 weeks’ worth of work for something that could be done in 2 weeks.
+你可能会争辩说，少承诺的缺点是，其他人认为你预估10周完成工作是因为你要偷懒，或许整个工程2周就可以完工。You might argue that the downside of under-promising is that others will think you’re being lazy by estimating 10 weeks’ worth of work for something that could be done in 2 weeks.
 
-To be honest, I struggled with this for a while, too. However, I then realized that as long as  **you communicate openly and stay consistent with the stakeholders throughout the process**, you’ll be fine.
+说实话，我也挣扎了一会儿。但随后我便意识到只要你 **在整个过程中，公开沟通，并与利益相关者保持一致**，你会没事的。To be honest, I struggled with this for a while, too. However, I then realized that as long as  **you communicate openly and stay consistent with the stakeholders throughout the process**, you’ll be fine.
 
-You’re the person responsible for providing the cost because others rely on your expertise. They know that you’re the one most intimate with the codebase, and they trust you to provide a best-guess. Various things can happen during feature development, and  **as long as you’re openly communicating**, everything will be fine.
+你要负责提供成本因为其他人依赖你的专业知识。他们知道你是最熟悉代码库的人，相信你能够提供最好的推论。在功能开发过程中，任何事情都会发生，**只要你一致保持沟通的公开性**，一切都会没事的。You’re the person responsible for providing the cost because others rely on your expertise. They know that you’re the one most intimate with the codebase, and they trust you to provide a best-guess. Various things can happen during feature development, and  **as long as you’re openly communicating**, everything will be fine.
 
-#### Perfect is the enemy of good
+#### 完美是好的敌人Perfect is the enemy of good
 
-As a software engineer, you tend to find that a project lacks this or needs that before it can go out the door. A project could be a coding project or just a technical design doc that you need to write.
+作为一个软件工程师，在一个项目发布之前，你往往会发现这个项目缺什么或需要什么。这个项目可能是一个代码项目，或者只是一个你需要写的技术设计文档。As a software engineer, you tend to find that a project lacks this or needs that before it can go out the door. A project could be a coding project or just a technical design doc that you need to write.
 
-What often happens is that as you delve deeper into the project, you start to find that there is more stuff that you haven’t accounted for. You then roll up your sleeves and set your sights on getting to the bottom of things. You decided to spend the next few hours researching and trying to get everything wrapped up.
+当你更加深入了解项目时，你会发现有更多的东西都是你没有考虑到的。这种情况经常发生。What often happens is that as you delve deeper into the project, you start to find that there is more stuff that you haven’t accounted for. You then roll up your sleeves and set your sights on getting to the bottom of things. You decided to spend the next few hours researching and trying to get everything wrapped up.
 
-Ten hours in, nothing actually gets done and you pile up more work than before.
+10个小时后，什么事情都没有完成，而且你的工作量变得比以前更多了。Ten hours in, nothing actually gets done and you pile up more work than before.
 
-If this sounds familiar to you, then you’re not alone.
+如果你对这些话感到很熟悉，表明不止你一个人是这样。If this sounds familiar to you, then you’re not alone.
 
-This happens to everyone — and it happens to the best of us. I believe that we have been conditioned from a young age to produce work that is  **“perfect” or “complete.”** However, in reality, there is no such thing as a perfect solution.
+它发生在每个人身上，也发生在最优秀的人身上。我相信，我们从小就习惯于创作出完美或完整的作品。但在现实生活中，没有完美的事情。 This happens to everyone — and it happens to the best of us. I believe that we have been conditioned from a young age to produce work that is  **“perfect” or “complete.”** However, in reality, there is no such thing as a perfect solution.
 
-We live in a world of constraints, and there’s a trade-off for every important decision that we make.
+我们生活在充满约束的世界里，所做出的每个重要决定都需要有一个取舍。We live in a world of constraints, and there’s a trade-off for every important decision that we make.
 
-The **key here is recognizing we don’t know everything**. You might not realize it, but there is a myriad of alternatives behind most decisions you make.
+关键在于认知我们未知的事物。你可能没有意识到这个，但在你做出的大多数决定的背后，都有无数个选择。The **key here is recognizing we don’t know everything**. You might not realize it, but there is a myriad of alternatives behind most decisions you make.
 
-For example, as a computer science major, what should you do for a first job out of college? Other than working for a startup or a major tech company, you could also work overseas as a freelancer, start a Youtube channel, teach computer science on Udemy, start a blog, or start your own company. The list of options is limitless, and the decision you make today will be based on several key criteria.
+例如，作为一个计算机科学专业的学生，毕业后的第一份工作你应该做什么？除了为一家初创公司或大型科技公司工作外，你还可以在海外做自由职业者，开设 Youtube 频道，在 Udemy 上教授计算机科学，开设博客，或创办自己的公司。选择是无限的，而你今天的决定也将基于一些关键标准。For example, as a computer science major, what should you do for a first job out of college? Other than working for a startup or a major tech company, you could also work overseas as a freelancer, start a Youtube channel, teach computer science on Udemy, start a blog, or start your own company. The list of options is limitless, and the decision you make today will be based on several key criteria.
 
-You’ll eventually make a decision that is  **best for you**, and not necessarily objectively the best, because everyone is unique and there’s no one-size-fits-all.
+最终你会做出一个**对你最好**的决定，不必非得是客观上的最好，因为每个人都是与众不同的，没有能够适合所有人的决定。You’ll eventually make a decision that is  **best for you**, and not necessarily objectively the best, because everyone is unique and there’s no one-size-fits-all.
 
-The best we can do in such a situation is to collect as much information as possible, acknowledge the risks in what we do not know, and make the best decision from there.
+在这种情况下，我们应该尽自己所能，收集尽可能多的信息，接受我们不知道的那些风险，然后从中做出最好的决定。The best we can do in such a situation is to collect as much information as possible, acknowledge the risks in what we do not know, and make the best decision from there.
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*2F4wBkVOMWshNP7qVFJJMg.png)
 
-Probabilities of failing
+失败的概率Probabilities of failing
 
-The way I think about it is I assign a probability for the worst case scenario, and use that for my decision-making process. This is something I learned from a book called  [Principles by Ray Dalio][3], which is a great book that I highly recommend.
+我的想法是，我为最坏的情况分配一个概率，并将其用于我的决策过程。这是我从一本叫《Principles by Ray Dalio》的书中学到的，这本书是我极力推荐的一本好书。The way I think about it is I assign a probability for the worst case scenario, and use that for my decision-making process. This is something I learned from a book called  [Principles by Ray Dalio][3], which is a great book that I highly recommend.
 
-If the probability of something going horribly wrong is statistically significant, I either:
+如果某件事情发生可怕的错误的概率在统计学上是显著的，我会：If the probability of something going horribly wrong is statistically significant, I either:
 
-1.  Look for a better solution or
-2.  Find ways to mitigate the risks such that they are no longer statistically significant.
+1.  寻找最好的解决方案或Look for a better solution or
+2.  设法降低风险，以至于它们不再具有统计意义。Find ways to mitigate the risks such that they are no longer statistically significant.
 
-Once a decision is made, I then execute on it and move on.
+一旦做出了决定，我就会执行它们，并且继续下去。Once a decision is made, I then execute on it and move on.
 
-Rinse, and repeat for every problem that I encounter. I find joy in solving these problems, and in some ways, life’s joy is in solving problems of varying magnitude and complexity.
+冲洗，然后重复我遇到的每一个问题。我在解决这些问题上找到了乐趣，在某些方面，生活的乐趣在于解决不同程度和复杂性的问题。Rinse, and repeat for every problem that I encounter. I find joy in solving these problems, and in some ways, life’s joy is in solving problems of varying magnitude and complexity.
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*haY65XZWvENvnYaLwHQHLQ.png)
 
