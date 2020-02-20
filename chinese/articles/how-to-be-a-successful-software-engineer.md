@@ -6,13 +6,12 @@
 
 对于那些年轻的，目光敏锐且刚刚着手从事这个行业的软件工程师来说，这里是我曾经作为一个软件工程师读过以及收到过的比较好的建议。 For the young, bright-eyed software engineers who are starting out in their careers, here are some of the best tips I’ve either read or received as a software engineer.
 
-这里的大多数建议都满足了从事软件工程的人群，但是我相信无论你的职业是什么，它们也都适用于你。Most of the advice here caters to the software engineering crowd, but I believe there are many tips that are applicable regardless of your profession.
+这里的大多数建议都满足了从事软件工程的人群，但是我相信无论你的职业是什么，它们也都适用于你。
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*czBnulToEp24YNhjnTTrqQ.png)
 
-我收到的最好的事业和生活的建议Best career and life advice I’ve received
-
-简而言之，最好的建议就是：In short, my best advice is:
+我收到的最好的事业和生活的建议
+简而言之，如下：
 
 -   少承诺，多干活Underpromise, overdeliver
 -   完美是好的敌人Perfect is the enemy of good
@@ -21,17 +20,17 @@
 -   提问之前要先自己寻找Seek before you ask
 -   优化是为了简化Optimize for simplicity
 
-如果你选择在用影像格式观看，我已经做好了一个 Youtube 视频：If you prefer to watch this in a video format, I’ve made a Youtube video here:
+如果你选择在用影像格式观看，我已经做好了一个 Youtube 视频：
 
-#### 少承诺，多干活Underpromise, Overdeliver
+#### Underpromise, Overdeliver
 
-无论是新手还是有经验的工程师，低估完成一个需求所需要的工作量是一个 _极其普遍的错误_ 。Underestimating the amount of work needed to accomplish a feature is an  _extremely common mistake_  among new, and even experienced, engineers.
+无论是新手还是有经验的工程师，低估完成一个需求所需要的工作量是一个 _极其普遍的错误_ 。
 
-如果你知道超预算和/或延期的项目的数目，你会感到非常惊讶。这是一个非常疯狂的数字，大约是50%。If you look at the number of projects that are over-budget and/or delivered late, you’ll be very surprised. It’s a crazy number, something to the tune of 50%.
+如果你知道超预算和/或延期的项目的数目，你会感到非常惊讶。这是一个非常疯狂的数字，大约是50%。
 
-我们迅速想一下：**有50%的项目不是超过预算就是延期了。**Let’s consider that for a second:  **50% of all projects are either over-budget or delivered late.**
+我们很快就能想到：**有50%的项目不是超过预算就是延期了。**Let’s consider that for a second:  **50% of all projects are either over-budget or delivered late.**
 
-那意味着每1000个以上的项目，就有500个或者一半的项目是延期或者是超过预算的。这让我很困惑。That means out of every 1000 projects, 500, or half of them, are delivered late or over the estimated budget. It just baffles me.
+那意味着每1000个以上的项目，就有500个或者一半的项目是延期或者是超过预算的。这让我很困惑。
 
 我清楚地记得我的第一个技术性项目，那时我负责领导功能开发。这意味着我要写一个技术设计文档，详细说明开发一个完整的功能需要多长时间，需要多少个工程师等等。I recall distinctly during my first tech project that I was given the autonomy to lead the feature development. That meant I was the go-to guy who would write up a technical design doc detailing how much time it would take to develop the entire feature, how many engineers we would need, and so forth.
 
